@@ -11,8 +11,8 @@
     
 .blackboard
 {
-    height: 300px;
-    width: 200px;
+    height: 350px;
+    width: 250px;
     background-color: rgb(61, 59, 59);
     border-radius: 6px;
     display: flex;
